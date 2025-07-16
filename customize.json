@@ -1,0 +1,23 @@
+{
+  "greeting": "Này",
+  "name": "Linh",
+  "greetingText": "Tao thật sự ghét mày đấy! Nhưng mà...",
+  "wishText": "Chúc Linh luôn giống người đừng giống chó nha! ;)",
+  "imagePath": "img/linh.png",
+  "text1": "Hôm nay là sinh nhật của mày!!! :D",
+  "textInChatBox": "Chúc mừng sinh nhật! Yeee! Rất nhiều lời chúc tốt đẹp blah blah...",
+  "sendButtonLabel": "Gửi",
+  "text2": "Đó là những gì tao định làm.",
+  "text3": "Nhưng rồi tao nghĩ lại.",
+  "text4": "Tao nhận ra, tao muốn làm điều gì đó",
+  "text4Adjective": "đặc biệt",
+  "text5Entry": "Bởi vì,",
+  "text5Content": "Với tao, mày rất đặc biệt",
+  "smiley": ":)",
+  "bigTextPart1": "thế",
+  "bigTextPart2": "nên  ",
+  "wishHeading": "Chúc Mừng Sinh Nhật!",
+  "outroText": "Được rồi, bây giờ nhắn lại cho tao biết mày thích quà gì.",
+  "replayText": "Hoặc nhấn vào đây nếu mày muốn xem lại.",
+  "outroSmiley": ":)"
+}
